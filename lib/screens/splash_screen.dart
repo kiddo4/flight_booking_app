@@ -184,7 +184,7 @@ class _SplashScreenState extends State<SplashScreen>
                         _slidesIn(
                           interval: const Interval(0.35, 0.85),
                           child: Image.asset('assets/images/logo_white.png',
-                              width: 64),
+                              width: 78),
                         ),
                         const SizedBox(height: 26),
                         _slidesIn(
